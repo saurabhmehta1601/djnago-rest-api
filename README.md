@@ -1,1 +1,1 @@
-# djnago-rest-api
+# Student Management System -djnago-rest-api
